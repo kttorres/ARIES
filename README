@@ -1,2 +1,7 @@
 This dataset includes the combination of four different datasets from the Roboflow platform:
 https://universe.roboflow.com/gobinath-g-lncll/building-crack-detection-dmhfv
+https://universe.roboflow.com/apu-jimbr/crack-uuasm
+https://universe.roboflow.com/antonio-raimundo/crack-detection-y5kyg
+https://universe.roboflow.com/vcc-zmks5/crack-vqykz
+
+The dataset includes two classes of failures: Cracks (86%) and Spalls (14%), with 10862 training images, 782 test images and 1364 validation images.
